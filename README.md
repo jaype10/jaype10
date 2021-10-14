@@ -3,7 +3,7 @@
 - 🐱‍👤 Atualmente trabalho com Front-End
 - 🎓 Ensino Superior em Desenvolvimento de Jogos Digitais pelo IESB 
 - 🎮 X-COM e CS:GO
-- 🎒 Estudando JavaScript e Git
+- 🎒 Estudando Git
 
 <div align="center">
   <a href="https://github.com/jaype10">
