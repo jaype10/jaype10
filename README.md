@@ -3,7 +3,7 @@
 - 🐱‍👤 Atualmente trabalho com Front-End
 - 🎓 Ensino Superior em Desenvolvimento de Jogos Digitais pelo IESB 
 - 🎮 X-COM e CS:GO
-- 🎒 Estudando Git
+- 🎒 Estudando ReactJs
 
 <div align="center">
   <a href="https://github.com/jaype10">
@@ -15,6 +15,8 @@
   <img align="center" alt="Jaype-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Jaype-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Jaype-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Jaype-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jaype-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
   
   ##
