@@ -1,8 +1,9 @@
 ## Olá! Eu sou o João Paulo 👋
 
-Sou desenvolvedor **Front-End** com formação em **Desenvolvimento de Jogos Digitais (IESB)** e atualmente estou aprofundando meus conhecimentos em **React.js** e tecnologias modernas para criação de interfaces dinâmicas e eficientes.
+Sou **Desenvolvedor Front-End** com formação em **Desenvolvimento de Jogos Digitais (IESB)**, onde tive foco especial em **C#** e desenvolvimento dentro da engine Unity.  
 
-Meu objetivo é **construir soluções criativas e funcionais**, unindo meu background em jogos digitais com práticas atuais de desenvolvimento web.
+Atualmente, aprofundo meus estudos em **React.js** e também estou expandindo para **Back-End**, aprendendo **PHP** e **Python**.  
+Meu objetivo é evoluir para a área de **Full-Stack**, unindo front-end e back-end para entregar soluções completas e eficientes.
 
 ---
 
@@ -17,6 +18,8 @@ Meu objetivo é **construir soluções criativas e funcionais**, unindo meu back
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
   <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
