@@ -42,7 +42,9 @@ I am a developer focused on building robust and scalable solutions, combining th
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaype10&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaype10&theme=tokyonight" />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaype10&theme=tokyonight" />
+</div>
 
 ---
 
